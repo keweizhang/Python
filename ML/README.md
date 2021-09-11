@@ -90,6 +90,8 @@ $$
 
 
 
+$$\sigma_{error_2(h)}=\frac{\sigma_r}{n}=\frac{\sqrt{np(1-p)}}{n}=\sqrt{\frac{error_D(h)(1-error_D(h))}{n}}$$
+
 
 
 
