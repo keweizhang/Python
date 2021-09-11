@@ -84,13 +84,13 @@ $$
 
 
 
+$$\sigma_{{error_{2}}(h)}=\frac{\sigma_{r}}{n}=\frac{\sqrt{n p(1-p)}}{n}=\sqrt{\frac{{error}_{D}(h)\left(1-{error}_{D}(h)\right)}{n}}$$
+
+
+
 $$
-\sigma_{{error_{2}}(h)}=\frac{\sigma_{r}}{n}=\frac{\sqrt{n p(1-p)}}{n}=\sqrt{\frac{{error}_{D}(h)\left(1-{error}_{D}(h)\right)}{n}}
+\sigma_{error_2(h)}=\frac{\sigma_r}{n}=\frac{\sqrt{np(1-p)}}{n}=\sqrt{\frac{error_D(h)(1-error_D(h))}{n}}
 $$
-
-
-
-$$\sigma_{error_2(h)}=\frac{\sigma_r}{n}=\frac{\sqrt{np(1-p)}}{n}=\sqrt{\frac{error_D(h)(1-error_D(h))}{n}}$$
 
 
 
