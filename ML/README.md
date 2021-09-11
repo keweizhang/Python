@@ -79,7 +79,7 @@ Area Under ROC Curve 考虑二分类时划分正负的阈值，相当稳定的�
 
 
 $$
-\sigma_{{error_{2}}(h)}=\frac{\sigma_{r}}{n}=\frac{\sqrt{n p(1-p)}}{n}=\sqrt{\frac{ {error}_{D}(h)(1-{error}_{D}(h))}{n} }
+\sigma_{error_{2}(h)}=\frac{\sigma_{r}{n}}=\frac{\sqrt{n p(1-p)}}{n}=\sqrt{ \frac{ error_{D}(h)(1-error_{D}(h))}{n} }
 $$
 
 
