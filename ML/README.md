@@ -1,9 +1,3 @@
-<script type="text/x-mathjax-config">   MathJax.Hub.Config({     tex2jax: {       inlineMath: [ ['$','$'], ["\\(","\\)"] ],       processEscapes: true     }   }); </script>
-
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-
-
-
 # 机器学习
 
 机器学习实验方法与原则
@@ -84,9 +78,7 @@ Area Under ROC Curve 考虑二分类时划分正负的阈值，相当稳定的�
 
 
 
-$$
-\sigma_{{error_{2}}(h)}=\frac{\sigma_{r}}{n}=\frac{\sqrt{n p(1-p)}}{n}=\sqrt{\frac{\operatorname{error}_{D}(h)\left(1-\operatorname{error}_{D}(h)\right)}{n}}
-$$
+$$\sigma_{{error_{2}}(h)}=\frac{\sigma_{r}}{n}=\frac{\sqrt{n p(1-p)}}{n}=\sqrt{\frac{\operatorname{error}_{D}(h)\left(1-\operatorname{error}_{D}(h)\right)}{n}}$$
 
 
 
