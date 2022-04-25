@@ -22,7 +22,7 @@
 
 #### `str`, `list`, `tuple`, `set`
 
-使用`for index,elem in enumerate(elements):` 即可得到索引和元素
+使用 `for index,elem in enumerate(elements):` 即可得到索引和元素
 
 #### `dict`
 
