@@ -1,4 +1,6 @@
-## 变量
+# 1 变量和运算符
+
+## 1.1 变量
 
 一行定义多个变量
 
@@ -10,30 +12,24 @@ a, b = 3, 4
 
 :information_source: 其原理是`tuple`的封装与解封
 
-## 运算符
+## 1.2 运算符
 
 ### 数值运算符
 
-四则运算符：`*` `/` `+` `-` 
+|作用|运算符|作用|运算符|
+|---|---|---|---|
+|四则运算符|`*`  `/`  `+`  `-`|整除取商|`//`|
+|简写运算符|`*=`  `/=`  `-=`  `+=`|取余运算|`%`|
 
-整除取商：`//`
-
-取余运算：`%`
-
-同时得到商和余数：函数`divmod(a,b)` 将得到一个结果为`(div, mod)`的`tuple` 
-
-简写运算符：`*=` `/=` `-=` `+=` 
+:information_source: 同时得到商和余数：函数`divmod(a,b)` 将得到一个结果为`(div, mod)`的`tuple` 
 
 ### 关系运算符
 
-| 运算符 | 含义                        |
-| ------ | --------------------------- |
-| `<`    | Is less than                |
-| `<=`   | Is less than or equal to    |
-| `>`    | Is greater than             |
-| `>=`   | Is greater than or equal to |
-| `==`   | Is equal to                 |
-| `!=`   | Is not equal to             |
+| 运算符 | 含义  |运算符 | 含义  |
+| ------ | --------------------------- |---|---|
+| `<`  | Is less than                | `>`  | Is greater than             |
+| `<=` | Is less than or equal to    | `>=` | Is greater than or equal to |
+| `==` | Is equal to                 | `!=` | Is not equal to             |
 
 ### 逻辑运算符
 

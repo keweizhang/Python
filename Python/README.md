@@ -1,10 +1,9 @@
-# Python语法及技巧
+# Python语法
 
-## 1-基本语法
+## 1. [变量与运算符](https://github.com/keweizhang/Notes/blob/main/Python/py_Variables.md)
 
-### 1.1 [变量与运算符](https://github.com/keweizhang/Notes/blob/main/Python/Structure/pyVariables.md)
 
-### 1.2 数据类型
+## 2. 数据类型
 
 |数据类型|简要说明|
 |----|----|
@@ -14,7 +13,7 @@
 |[集合](https://github.com/keweizhang/Notes/blob/main/Python/DataType/py_DataType_Set.md)|无序不重复|
 |[字典](https://github.com/keweizhang/Notes/blob/main/Python/DataType/py_DataType_Dict.md)|无序键值对的集合|
 
-### 1.3 [结构](https://github.com/keweizhang/Notes/blob/main/Python/Structure/pyStructure.md)
+## 3. [结构](https://github.com/keweizhang/Notes/blob/main/Python/Structure/pyStructure.md)
 
 ### 1.4 函数
 
