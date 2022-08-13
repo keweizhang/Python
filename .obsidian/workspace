@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "ac93751d65eb018d",
+    "type": "split",
+    "children": [
+      {
+        "id": "048c3ad7265694ea",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "A_Introduction/README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "735d152ffcd0db37",
+    "type": "split",
+    "children": [
+      {
+        "id": "e87d068a2f9a2e01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38a7760986e40949",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "98b1f9a8d296b375",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1336aa84736085d3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "382964f74ff01bcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2179d5fd522ee11e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ab27bd72c5d8c9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A_Introduction/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6da7bca4c50a2bd4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A_Introduction/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0c9b939492c8808",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ac03399c58e1780d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A_Introduction/README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "048c3ad7265694ea",
+  "lastOpenFiles": [
+    "A_Introduction/py_Function.md",
+    "A_Introduction/README.md",
+    "A_Introduction/DataType/py_DataType_List.md",
+    "B_Projects/notes/numpy常用.md",
+    "A_Introduction/DataType/py_DataType_Tuple.md",
+    "B_Projects/Others/pyGeneral.md",
+    "B_Projects/Others/pyTraversal.md"
+  ]
+}
